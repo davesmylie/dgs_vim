@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/dgs/code/spelling/app/views'
+let g:netrw_dirhist_2='/Users/dgs/code/spelling/app'
+let g:netrw_dirhist_3='/Users/dgs/code/spelling/app/admin'
+let g:netrw_dirhist_4='/Users/dgs/code/spelling/test'
+let g:netrw_dirhist_5='/Users/dgs/code/spelling/test/unit'
+let g:netrw_dirhist_6='/Users/dgs/code/mailapp/app/mailers'
